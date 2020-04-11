@@ -1,0 +1,29 @@
+.stories.snapgram .story > a {text-decoration:none;color:#333}
+.stories.snapgram .story > a > .img {border-radius:50%;padding:2px;background:radial-gradient(ellipse at 70% 70%,#ee583f 8%,#d92d77 42%,#bd3381 58%);}
+.stories.snapgram .story > a > .img > * {border-radius: 50%; border:3px solid #fff;}
+
+.stories.snapgram .story.seen{opacity:.75}
+.stories.snapgram .story.seen > a > .img {background:#999}
+.stories.snapgram .story.seen > a{color:#999!important}
+
+/*
+     FILE ARCHIVED ON 16:41:55 Jan 02, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:52:11 Apr 11, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.datanode: 122.707 (5)
+  captures_list: 121.788
+  exclusion.robots.policy: 0.168
+  RedisCDXSource: 15.398
+  CDXLines.iter: 15.683 (3)
+  exclusion.robots: 0.18
+  load_resource: 124.038
+  esindex: 0.015
+  LoadShardBlock: 87.722 (3)
+  PetaboxLoader3.resolve: 58.823 (2)
+*/
